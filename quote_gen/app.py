@@ -11,6 +11,8 @@ quotes = [
     "If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt",
     "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey",
     "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron",
+    "Marico el que lo lea",
+    "LPQLRMP"
 ]
 
 
@@ -33,6 +35,7 @@ def quote():
         "If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt",
         "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey",
         "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron",
+        "Marico el que lo lea",
     ]
 
     index = random.randrange(len(quotes))
